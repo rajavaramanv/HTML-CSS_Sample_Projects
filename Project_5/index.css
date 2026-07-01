@@ -25,7 +25,7 @@
     color: red;
 }
 
-.bottem-head{
+.bottom-head{
     background-color: rgb(31, 31, 228);
     display: flex;
     color: white;
@@ -34,19 +34,19 @@
     z-index:4;
 }
 
-.bottem-head .bottem-head-icon{
+.bottom-head .bottom-head-icon{
     width: 70px;
     height: 60px;
     padding: 5px;
 }
 
-.bottem-head pre{
+.bottom-head pre{
     font-size: 20px;
     padding:5px;
     font-family:cursive;
 }
 
-.bottem-head h3{
+.bottom-head h3{
     padding: 10px;
     margin-top: 15px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -54,11 +54,11 @@
     cursor: pointer;
 }
 
-.bottem-head h3:hover{
+.bottom-head h3:hover{
     opacity: 1;
 }
 
-.bottem-search-icon{
+.bottom-search-icon{
     width: 30px;
     height: 30px;
     padding: 15px;
@@ -112,16 +112,16 @@
     opacity: 0.8;
 }
 
-.right-sec-bottem{
+.right-sec-bottom{
     height: 230px;
     width: 100%;
     display: flex;  
 }
 
-.right-sec-bottem-1{
+.right-sec-bottom-1{
     width:50%;
     height: 250px;
-    background-image: url(https://loremflickr.com/260/210/hockey);
+    background-image: url(https://loremflickr.com/260/210/sports);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 10px;
@@ -129,7 +129,7 @@
     opacity: 0.8;
 }
 
-.right-sec-bottem-2{
+.right-sec-bottom-2{
     width: 50%;
     height: 250px;
     background-image: url(https://loremflickr.com/260/210/football);
@@ -165,7 +165,7 @@
     opacity: 1;
 }
 
-.right-sec-bottem-1 h3{
+.right-sec-bottom-1 h3{
     color: rgba(0, 0, 0,0.9);
     position: relative;
     top:80%;
@@ -173,11 +173,11 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.right-sec-bottem-1:hover{
+.right-sec-bottom-1:hover{
     opacity: 1;
 }
 
-.right-sec-bottem-2 h3{
+.right-sec-bottom-2 h3{
     color: rgba(0, 0, 0,0.9);
     position: relative;
     top:85%;
@@ -185,7 +185,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.right-sec-bottem-2:hover{
+.right-sec-bottom-2:hover{
     opacity: 1;
 }
 
@@ -218,19 +218,19 @@
     height: 100%;
 }
 
-.news-img-bottem h2{
+.news-img-bottom h2{
     color: rgb(0, 0, 0);
     padding: 10px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.news-img-bottem p{
+.news-img-bottom p{
     color: rgb(0, 0, 0);
     padding: 10px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.news-img-bottem h2:hover{
+.news-img-bottom h2:hover{
     color: rgba(255, 0, 0, 0.9);
 }
 
@@ -253,16 +253,16 @@
     border-bottom: 3px solid rgb(0, 0, 0);
 }
 
-.news-text-bottem p{
+.news-text-bottom p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 19px;
 }
 
-.news-text-bottem p:hover{
+.news-text-bottom p:hover{
     color: rgba(255, 0, 0, 0.9);
 }
 
-.news-text-bottem {
+.news-text-bottom {
     height: 640px;
     padding: 10px;
     display: flex;
